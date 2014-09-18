@@ -1,0 +1,1052 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Respawn",
+				"RespawnArrowRotationOffset	buffer"
+			],
+			[
+				"SSG",
+				"SSG_PlayerController	Class"
+			],
+			[
+				"ID",
+				"IDOfWeaponPickedUpLastUpdate	var int "
+			],
+			[
+				"CurrentRe",
+				"CurrentResolutionAsString	buffer"
+			],
+			[
+				"Convert",
+				"ConvertStringArrayIntoDataProvider	buffer"
+			],
+			[
+				"Notif",
+				"NotifyPlayersThatGameHasEnded	buffer"
+			],
+			[
+				"STATE_OffN",
+				"STATE_OffNorthWest	buffer"
+			],
+			[
+				"STATE",
+				"STATE_OffWestEdge	buffer"
+			],
+			[
+				"Money",
+				"MoneyEarnedSinceLastUpdate	var int "
+			],
+			[
+				"SSG_PC",
+				"SSG_PC	local SSG_PlayerController "
+			],
+			[
+				"SetTreas",
+				"SetTreasureAmount	buffer"
+			],
+			[
+				"TIME",
+				"TIME_LEFT_CRITICAL	buffer"
+			],
+			[
+				"TIME_",
+				"TIME_LEFT_CRITICAL	buffer"
+			],
+			[
+				"second",
+				"SecondsLeft	local int "
+			],
+			[
+				"SSG_H",
+				"SSG_HUD_Timer	buffer"
+			],
+			[
+				"FullB",
+				"FullBodyAnimSlot	buffer"
+			],
+			[
+				"SSG_POI",
+				"SSG_POI_CameraFocusPoint	buffer"
+			],
+			[
+				"Attac",
+				"AttachedController	local PlayerController "
+			],
+			[
+				"FormatTim",
+				"FormatTimeIntoString	buffer"
+			],
+			[
+				"StaticMes",
+				"StaticMeshComponent	Class"
+			],
+			[
+				"NextSe",
+				"NextLevelSectionID	buffer"
+			],
+			[
+				"Ignore",
+				"IgnoreLookInput	(bool bNewLookInput)"
+			],
+			[
+				"Transi",
+				"TransitionStartLocation	local Vector "
+			],
+			[
+				"LevelSe",
+				"LevelSectionID	buffer"
+			],
+			[
+				"PlayerTeam",
+				"PlayerTeamIsInSectionExit	buffer"
+			],
+			[
+				"Focus",
+				"FocusPointSectionID	param int "
+			],
+			[
+				"Regist",
+				"RegisteredFocusPoints	buffer"
+			],
+			[
+				"Foc",
+				"FocusPointSectionID	param int "
+			],
+			[
+				"Regis",
+				"RegisteredFocusPoints	buffer"
+			],
+			[
+				"SSG_P",
+				"SSG_POI_CameraFocusPoint"
+			],
+			[
+				"CurrentZoo",
+				"CurrentZoomDistanceUnrealUnits	buffer"
+			],
+			[
+				"Noti",
+				"NotifyPlayersThatGameHasEnded	buffer"
+			],
+			[
+				"Vector",
+				"VectorToChosenPawn	buffer"
+			],
+			[
+				"Always",
+				"AlwaysLoadOnClient	var private const bool "
+			],
+			[
+				"MinPlayerS",
+				"MinPlayerScreenX	local float "
+			],
+			[
+				"MinP",
+				"MinPlayerScreenX	local float "
+			],
+			[
+				"au",
+				"autoZoomCameraClass	buffer"
+			],
+			[
+				"sc",
+				"screenXPos	buffer"
+			],
+			[
+				"DrawText",
+				"DrawTextAlignedAndScaled	buffer"
+			],
+			[
+				"align",
+				"alignedYPosition	local float "
+			],
+			[
+				"al",
+				"alignedXPosition	local float "
+			],
+			[
+				"ET",
+				"ETextVerticalAlignment	buffer"
+			],
+			[
+				"ALI",
+				"ALIGN_Left	buffer"
+			],
+			[
+				"JUSTIF",
+				"JUSTIFY_Left	buffer"
+			],
+			[
+				"scre",
+				"screenYPos	param float "
+			],
+			[
+				"JU",
+				"JUSTIFY_Left	buffer"
+			],
+			[
+				"JUS",
+				"JUSTIFY_Center	buffer"
+			],
+			[
+				"camer",
+				"cameraAngleUnrealUnits	buffer"
+			],
+			[
+				"super",
+				"super.PickedUpBy(P)"
+			],
+			[
+				"can",
+				"cannotFireSecondary	buffer"
+			],
+			[
+				"cann",
+				"cannotFirePrimary	local bool "
+			],
+			[
+				"AmmoEmpty",
+				"AmmoEmptyParticleComponent	var ParticleSystemComponent "
+			],
+			[
+				"calcul",
+				"CalculateRatioOfCurrentToMaxAmmo	(int currentAmmo, int maxAmmo)"
+			],
+			[
+				"seconds",
+				"secondsAfterHitToStartRegenerating	var int "
+			],
+			[
+				"rechar",
+				"rechargeRateThisSecond	local float "
+			],
+			[
+				"rechargeR",
+				"rechargeRateThisSecond	local int "
+			],
+			[
+				"distanceTo",
+				"distanceFromPlayerToFlag	buffer"
+			],
+			[
+				"flag",
+				"flagOverlayHideDistance	buffer"
+			],
+			[
+				"flagOv",
+				"flagOverlayTextureSize	var Vector2D "
+			],
+			[
+				"fl",
+				"flagOverlayTextureSize	var Vector2D "
+			],
+			[
+				"flagOver",
+				"flagOverlayTexture	var Texture2D "
+			],
+			[
+				"dis",
+				"distanceFromPlayerToFlag	local float "
+			],
+			[
+				"selec",
+				"selectedXResolution	local int "
+			],
+			[
+				"drop",
+				"dropdown_SetLanguage	var GFXObject "
+			],
+			[
+				"LANGUAGE_",
+				"LANGUAGE_ESM"
+			],
+			[
+				"SetResolu",
+				"SetResolutionFromComboAndCheckBox	()"
+			],
+			[
+				"Popu",
+				"PopulateOptionsDialogs	()"
+			],
+			[
+				"resolu",
+				"resolutionString	buffer"
+			],
+			[
+				"resol",
+				"resolutionString	buffer"
+			],
+			[
+				"scree",
+				"screenResolutionList	var array< string > "
+			],
+			[
+				"YouAre",
+				"YouAreOnBlueMessage	var localized string "
+			],
+			[
+				"Flag",
+				"FlagStolenFromAnubisString"
+			],
+			[
+				"FlagS",
+				"FlagStolenFromRaString"
+			],
+			[
+				"AK_Loca",
+				"AK_Localizer	Class"
+			],
+			[
+				"cur",
+				"currentLanguage"
+			],
+			[
+				"loc",
+				"localizationFile_XXX	var string "
+			],
+			[
+				"locali",
+				"localizationFile_ESM	var string "
+			],
+			[
+				"localization",
+				"localizationFile_ENG	var string "
+			],
+			[
+				"time",
+				"timeBetweenFlagScoresSeconds	var int "
+			],
+			[
+				"scr",
+				"screenResolutionList	var array< string > "
+			],
+			[
+				"IsFla",
+				"IsFlagPlacedInAnubisZone	(int flagID)"
+			],
+			[
+				"Zone",
+				"zoneTeamIndex"
+			],
+			[
+				"zone",
+				"zoneTeamIndex"
+			],
+			[
+				"AK_Stock",
+				"AK_Stockpile_GRI	Class"
+			],
+			[
+				"RO",
+				"Role	var ENetRole "
+			],
+			[
+				"diretion",
+				"directionFromPlayerToFlag	local vector "
+			],
+			[
+				"holdin",
+				"holdingPawn	local UTPawn "
+			],
+			[
+				"menu",
+				"menuButtonString_Start	var localized string "
+			],
+			[
+				"DepthP",
+				"SetDepthPriorityGroup	(ESceneDepthPriorityGroup NewDepthPriorityGroup)"
+			],
+			[
+				"menuString_Host",
+				"menuString_Host_GiveToPlayers	var localized string "
+			],
+			[
+				"menuButtonStr",
+				"menuButtonString_Controls	var localized string "
+			],
+			[
+				"UTInv",
+				"UTInventoryManager	Class"
+			],
+			[
+				"Mess",
+				"MessageIndex	param int "
+			],
+			[
+				"AK_M",
+				"AK_Message_Kills"
+			],
+			[
+				"IsFlagP",
+				"IsFlagPlacedInRaZone	(int flagID)"
+			],
+			[
+				"bL",
+				"bLockedFOV	var bool "
+			],
+			[
+				"LastInv",
+				"LastInvWeapons	var array<bool> "
+			],
+			[
+				"team",
+				"teamIndex"
+			],
+			[
+				"tim",
+				"timeLeftUntilScoringSeconds"
+			],
+			[
+				"pede",
+				"PedestalMeshComponent"
+			],
+			[
+				"Calcu",
+				"CalculateNumberOfFlagsInRaZone	()"
+			],
+			[
+				"NumberOfFlag",
+				"CalculateNumberOfFlagsInRaZone	()"
+			],
+			[
+				"FLAG_Pl",
+				"FLAG_PlacedInAnubisZone	buffer"
+			],
+			[
+				"FLAG",
+				"FLAG_HeldByRa	buffer"
+			],
+			[
+				"FLAG_P",
+				"FLAG_PlacedInAnubisZone	buffer"
+			],
+			[
+				"FLAG_H",
+				"FLAG_HeldAnubis	buffer"
+			],
+			[
+				"stockp",
+				"stockpileMessageClass"
+			],
+			[
+				"bFor",
+				"bForceNetUpdate	var transient bool "
+			],
+			[
+				"out",
+				"OuterRingMeshComponent"
+			],
+			[
+				"Out",
+				"outerRingMesh"
+			],
+			[
+				"point",
+				"pointsScoredThisRound"
+			],
+			[
+				"RA_S",
+				"RA_SCORED_1"
+			],
+			[
+				"st",
+				"startupMessageClass	var class< LocalMessage > "
+			],
+			[
+				"GameObj",
+				"GameObjRot3P	var rotator "
+			],
+			[
+				"timeBe",
+				"timeBeforeMatchStart"
+			],
+			[
+				"remain",
+				"RemainingTime	var int "
+			],
+			[
+				"AK_S",
+				"AK_Stockpile_Game"
+			],
+			[
+				"AK_ST",
+				"AK_Stockpile_Game	Class"
+			],
+			[
+				"AK_Stockpi",
+				"AK_Stockpile_ScoreZone"
+			],
+			[
+				"Game",
+				"GameReplicationInfo"
+			],
+			[
+				"AK_Sto",
+				"AK_Stockpile_GRI	buffer"
+			],
+			[
+				"sho",
+				"shouldResetScoringTimer	var bool "
+			],
+			[
+				"timeLef",
+				"timeLeftUntilScoringSeconds	var int "
+			],
+			[
+				"AK_Fami",
+				"AK_FamilyInfo_Servant_Anubis	Class"
+			],
+			[
+				"AK_F",
+				"AK_FamilyInfo_Servant_Anubis	Class"
+			],
+			[
+				"AK_Famn",
+				"AK_FamilyInfo_Servant_Ra	Class"
+			],
+			[
+				"Atta",
+				"AttachmentClass	var class<UTWeaponAttachment> "
+			],
+			[
+				"score",
+				"radiusOfScoreZone"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "GameServerMain.js",
+			"settings":
+			{
+				"buffer_size": 725,
+				"line_ending": "Windows",
+				"name": "GameServerMain.js"
+			}
+		},
+		{
+			"file": "/C/Users/AW 18/Downloads/webserver.js",
+			"settings":
+			{
+				"buffer_size": 4376,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 101.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: en",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: di",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 714.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Git/NodeGameServer"
+	],
+	"file_history":
+	[
+		"/D/Git/NodeGameServer/README.md",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_PlayerController.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Pawn.uc",
+		"/D/Perforce/Capstone/UDK/UDKGame/Config/DefaultGame.ini",
+		"/D/Perforce/Capstone/UDK/UDKGame/Config/DefaultEngine.ini",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_HUD_Ring.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_CheatManager.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_GameInfo.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_HUD_Arrow.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_SinglePickupFactory.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_DroppedPickup_Objective.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_SinglePickupFactory_Objective.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/Actor.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/NavigationPoint.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/PickupFactory.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/UDKBase/classes/UDKPickupFactory.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_HUD_Scaleform.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Menu_GameOver.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_MultiPickupFactory.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Pawn_BowBot.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Pawn_SpearBot.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Pawn_Bot.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Pawn_SwordBot.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/SpriteComponent.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_MultiPickupFactory_WeaponRack.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Weap_Base.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_HUD_Base.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Weap_Bow.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Weap_Spear.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Weap_Shield.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Weap_Sword.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Menu_Movie.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Weap_Melee.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/GFxUI/Classes/GFxMoviePlayer.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Menu_Pause.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/PlayerController.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/GameFramework/Classes/GamePlayerController.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_HUD_GameOver.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/UDKBase/classes/UDKHUD.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/HUD.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/GameFramework/Classes/MobileHUD.uc",
+		"/D/Perforce/Capstone/UDK/UDKGame/Localization/INT/UDKGameUI.int",
+		"/D/Perforce/Capstone/UDK/UDKGame/Localization/INT/GFxUI.int",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Menu_Pause_Object.uc",
+		"/D/Perforce/Capstone/UDK/UDKGame/Config/DefaultInput.ini",
+		"/D/Perforce/Capstone/UDK/UDKGame/Config/UDKInput.ini",
+		"/D/Perforce/Capstone/UDK/UDKGame/Config/UDKGame.ini",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/Weapon.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_SinglePickupFactory_Treasure.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/AnimNode.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/Pawn.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/GameFramework/Classes/GamePawn.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/UDKBase/classes/UDKPawn.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/Text_Formatting.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/HSV_Color.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Core/Classes/Object.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Core/Globals.uci",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/Engine.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Proj_Base.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Proj_Arrow.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_DmgType_Burn.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_DmgType_Spikes.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_DmgType_Offscreen.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_DmgType_Melee.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/Projectile.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/UDKBase/classes/UDKProjectile.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_HUD_Timer.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/GFxUI/Classes/GFxObject.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_DroppedPickup_Treasure.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_GameViewportClient.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Inventory_Base.uc",
+		"/C/Users/AW 18/Dropbox/Apps/Sublime Text 3/Data/Packages/UnrealScriptIDE/UnrealScriptIDE.sublime-settings",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Camera_SharedMulti.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/Camera.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_POI_SectionExit.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/Info.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/GameInfo.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/GameFramework/Classes/FrameworkGame.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/UDKBase/classes/SimpleGame.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/UDKBase/classes/UDKGame.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/LocalPlayer.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Inventory_Objective.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/InventoryManager.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/DroppedPickup.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/Inventory.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Inventory_Objective_Crown.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_LootContainer.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/AnimSet.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/UDKBase/classes/UDKWeapon.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Trap_MeadBarrel.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Trap_Flames.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/Controller.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_SeqEvent_SuddenDeathBegins.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_SeqEvent_TransitionStart.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/SSG_HUD_Scaleform.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Trap_Spikes.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Trap_Base.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_SeqAction_ActivateTrap.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Inventory_Treasure_Large.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Inventory_Treasure_Medium.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/CheatManager.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SeqAct_SSGMead.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Inventory_Treasure.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Inventory_Treasure_Small.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_InventoryManager.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_LevelSettings.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_POI_PlayerStart.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_MultiPickupFactory_WeaponRack",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/Teleporter.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/PlayerStart.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/CameraModifier.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_CameraModifier_ThirdPerson.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/CameraModifier_CameraShake.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/GameFramework/Classes/GamePlayerCamera.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_POI_CameraFocusPoint.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Camera_4Player.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Camera_AutoZoom.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/UDKBase/classes/UDKBot.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_Bot.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/SuperSlashNGrab/Classes/SSG_POI_TeamExit.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/ScriptViewportClient.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/GameViewportClient.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/UDKBase/classes/UDKGameObjective.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/Engine/Classes/PlayerController.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/GameFramework/Classes/GamePlayerController.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/Engine/Classes/Weapon.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UDKBase/classes/UDKWeapon.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/GameFramework/Classes/GameCrowdAgentSkeletal.uc"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Feedback",
+			"SetTimer",
+			"Engine.PlayerController",
+			"PostBeginPlay",
+			"DropAmo",
+			"SpriteComponent",
+			"SetTreasureAmount",
+			"ClientGameEnded",
+			"Client",
+			"GameHas",
+			"NotifyPlayersThatGame",
+			"EndGame",
+			"Notify",
+			"ShouldShowGameOverMessage",
+			"DrawGameOverMessage",
+			"Game Over",
+			"Ended",
+			"NotifyPlayers",
+			"EndGame",
+			"GameOver",
+			"Pause",
+			"SetPause",
+			"Pause",
+			"PAUSED",
+			"ShowMenu",
+			"menu",
+			"ShowMenu",
+			"ConsoleCommand",
+			"\")\n",
+			"MainMenu",
+			"QuitToMain",
+			"close",
+			"Pause",
+			"GetPC",
+			"Stop",
+			"PlayWeaponAnimation",
+			"20",
+			"Dying",
+			"Lifespan",
+			"Damage",
+			"MoneyEarned",
+			"Died",
+			"setRes",
+			"setres",
+			"SetR",
+			"resolution",
+			"animend",
+			"PlayDying",
+			"SetViewTarget",
+			"Tick",
+			"SetViewTarget",
+			"TransitionTimeLeftSeconds",
+			"EnablePlayerInputs",
+			"Transition",
+			"VLerp",
+			"Exit",
+			"GBA_ShowMenu",
+			"Escape",
+			"GfxHUDWrapper",
+			"Spawn player",
+			"MoviePath",
+			"UDKFront",
+			"exit",
+			"Exit",
+			"PreExit",
+			"Location",
+			"SetViewTarget",
+			"exit",
+			"End",
+			"Destroy",
+			"close",
+			"quit",
+			"Destroy",
+			"Init",
+			"Classic",
+			"ClassicHud",
+			"ClassicHUD",
+			"ClassicHUD\nClassicHud",
+			"Init(",
+			"Init",
+			"Destroyed()",
+			"Destroy",
+			"myHUD",
+			"InvManager",
+			"Objective",
+			"WeaponSocket",
+			"Objective",
+			"Socket",
+			"PlayImpactEff",
+			"SoundCue",
+			"MatchFuncN",
+			"var name",
+			" name ",
+			"Pawn",
+			"Locker",
+			"SoundCue",
+			"GetVariableObject",
+			"ActionScriptVoid",
+			"bIsFiringWeapon",
+			"Velocity",
+			"NotifyKilled",
+			"Killed",
+			"EndGame",
+			"RestartPlayer",
+			"SetAnchor",
+			"RestartPlayer",
+			"StartHumans",
+			"RestartPlayer",
+			"SpawnDefaultPawnFor",
+			"NotifyKilled",
+			"FindPlayerStart",
+			"ChoosePlayerStart",
+			"RatePlayerStart",
+			"Died",
+			"killed",
+			"ClientSetHu",
+			"TviewTarget",
+			"myHUD",
+			"ASColorTransform",
+			"LocalPlayer",
+			"GameViewportClient",
+			"ControllerID",
+			"Player",
+			"Trigger",
+			"Timer",
+			"bGodMode",
+			"CheatManager",
+			"bGodMode"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"SSG_Camera_SharedMulti",
+			"SoundCue'AK_AmbNoise.Silence_Cue'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "GameServerMain.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 725,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								713,
+								713
+							]
+						],
+						"settings":
+						{
+							"auto_name": "GameServerMain.js",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/AW 18/Downloads/webserver.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4376,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4373,
+								4316
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 3600.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.UnrealScriptAutocomplete_panel":
+	{
+		"height": 212.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "NodeGameServer.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Perforce\\TGP2\\UDK\\Development\\Src\\AKHET\\Classes\\AKHET.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 320.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
